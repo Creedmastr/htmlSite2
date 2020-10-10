@@ -68,6 +68,11 @@ p.italic-small-Rick {
 
 p.notification.is-secondary {
   background: coral;
+  text-align: center;
+  font-size: 40px;
+  border-radius: 20px;
+  margin-left: 190px;
+  margin-right: 190px;
 }
 
 p.footer-padding{
