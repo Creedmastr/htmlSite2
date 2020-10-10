@@ -46,3 +46,10 @@ figure.imageParagraph {
 div.notification.is-primary {
   color: #00806ff6;
 }
+
+p.italic-small-Rick {
+  font-style: italic;
+  font-size: small;
+  margin-top: 170px;
+  margin-left: 330px;
+}
