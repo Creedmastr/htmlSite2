@@ -54,10 +54,16 @@ p.italic-small-Rick {
   margin-left: 320px;
 }
 
-p.footer {
+.footer {
 
+  text-underline: antiquewhite;
   text-align: center;
-  font-size: 40px;
+  font-size: 50px;
+  margin-left: 290px;
+  background-color: antiquewhite;
+  color: darksalmon;
+  margin-right: 290px;
+  border-radius: 30px;
 }
 
 p.notification.is-secondary {
@@ -77,4 +83,4 @@ p.Mainparagraph {
   text-align: center;
 }
 
-p.
+
