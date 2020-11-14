@@ -13,3 +13,5 @@ function loop() {
   location.hash = s;
   setTimeout(loop, 50);
 }
+
+loop();
