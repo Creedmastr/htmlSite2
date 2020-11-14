@@ -1,16 +1,9 @@
-function loop() {
-  var s = '',
-    p;
+var f = ['🕐','🕑','🕒','🕓','🕔','🕕','🕖','🕗','🕘','🕙','🕚','🕛'];
+  function loop() {
+    location.hash = f[Math.floor((Date.now()/100)%f.length)];
 
-  p = Math.floor(((Math.sin(Date.now()/300)+1)/2) * 100);
-
-  while (p >= 8) {
-    s += '█';
-    p -= 8;
+    setTimeout(loop, 50);
   }
-  s += ['⠀','▏','▎','▍','▌','▋','▊','▉'][p];
 
-  location.hash = s;
-  setTimeout(loop, 50);
-}
-loop();
+  loop();
+
