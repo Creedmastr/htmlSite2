@@ -21,7 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="32964fa8-0a7e-4d64-913b-eb9eb269482b" name="Default Changelist" comment="v2.0.0">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/secondPage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +51,16 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="secondPage.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FakeNews/secondPage.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.secondPage.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,7 +75,7 @@
       <workItem from="1602350626524" duration="754000" />
       <workItem from="1604147181394" duration="5000" />
       <workItem from="1605348984088" duration="1794000" />
-      <workItem from="1605350796923" duration="40000" />
+      <workItem from="1605350796923" duration="1321000" />
     </task>
     <task id="LOCAL-00001" summary="v1.4.1">
       <created>1605350396872</created>
@@ -80,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605350734766</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="v2.0.1">
+      <created>1605350844543</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605350844543</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,17 +120,18 @@
     <MESSAGE value="v1.4.0" />
     <MESSAGE value="v1.4.1" />
     <MESSAGE value="v2.0.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="v2.0.0" />
+    <MESSAGE value="v2.0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="v2.0.1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2635" y="72" width="1125" height="912" key="SettingsEditor" timestamp="1605349974051">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2635" y="72" width="1125" height="912" key="SettingsEditor/1920.0.1920.1080/0.27.1920.985@1920.0.1920.1080" timestamp="1605349974051" />
-    <state x="2475" y="251" width="800" height="542" key="Vcs.Push.Dialog.v2" timestamp="1605350736268">
+    <state x="2475" y="251" width="800" height="542" key="Vcs.Push.Dialog.v2" timestamp="1605350846020">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2475" y="251" width="800" height="542" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.27.1920.985@1920.0.1920.1080" timestamp="1605350736268" />
+    <state x="2475" y="251" width="800" height="542" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.27.1920.985@1920.0.1920.1080" timestamp="1605350846020" />
     <state x="2652" y="432" width="446" height="180" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605349550071">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>

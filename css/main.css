@@ -45,8 +45,14 @@ figure.imageParagraph {
 
 div.notification.is-primary {
   color: #00806ff6;
+  font-size: 90px;
 }
 
+p.notification.is-primary {
+  font-size: 50px;
+  border-radius: 30px;
+  margin: 30px;
+}
 p.italic-small-Rick {
   font-style: italic;
   font-size: 15px;
@@ -86,6 +92,20 @@ p.footer-padding{
 p.Mainparagraph {
   font-size: 70px;
   text-align: center;
+}
+
+p.second-article-title {
+  font-size: 20px;
+  margin-left: 130px;
+  margin-top: 30px;
+}
+
+img.IMGTRUMP {
+  margin-left: 160px;
+}
+
+div.PXHAUTEUR {
+  margin-top: 130px;
 }
 
 
