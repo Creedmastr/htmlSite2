@@ -1,16 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="32964fa8-0a7e-4d64-913b-eb9eb269482b" name="Default Changelist" comment="" />
+    <list default="true" id="32964fa8-0a7e-4d64-913b-eb9eb269482b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/mainPage.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectId" id="1ig1AQqDzcK3KZFvRsMeGht8RPh" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,7 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -32,17 +61,39 @@
       <updated>1602314277681</updated>
       <workItem from="1602314279495" duration="1049000" />
       <workItem from="1602319109181" duration="163000" />
-      <workItem from="1602319278625" duration="9168000" />
+      <workItem from="1602319278625" duration="10872000" />
+      <workItem from="1602350626524" duration="754000" />
+      <workItem from="1604147181394" duration="5000" />
+      <workItem from="1605348984088" duration="1081000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="2715" y="100" width="1125" height="912" key="SettingsEditor" timestamp="1602324058407">
+    <state x="2635" y="72" width="1125" height="912" key="SettingsEditor" timestamp="1605349974051">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2715" y="100" width="1125" height="912" key="SettingsEditor/1920.0.1920.1080/0.27.1920.985@1920.0.1920.1080" timestamp="1602324058407" />
+    <state x="2635" y="72" width="1125" height="912" key="SettingsEditor/1920.0.1920.1080/0.27.1920.985@1920.0.1920.1080" timestamp="1605349974051" />
+    <state x="2475" y="251" width="800" height="542" key="Vcs.Push.Dialog.v2" timestamp="1605349599589">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2475" y="251" width="800" height="542" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.27.1920.985@1920.0.1920.1080" timestamp="1605349599589" />
+    <state x="2652" y="432" width="446" height="180" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605349550071">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2652" y="432" width="446" height="180" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1080/0.27.1920.985@1920.0.1920.1080" timestamp="1605349550071" />
   </component>
 </project>
