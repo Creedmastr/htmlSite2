@@ -52,7 +52,7 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.secondPage.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FakeNews/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -64,9 +64,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.secondPage.html" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.mainPage.html" />
+        <item itemvalue="JavaScript Debug.secondPage.html" />
       </list>
     </recent_temporary>
   </component>
@@ -88,7 +88,7 @@
       <workItem from="1605352647816" duration="1798000" />
       <workItem from="1605354470912" duration="23000" />
       <workItem from="1605354622591" duration="243000" />
-      <workItem from="1605953493734" duration="4400000" />
+      <workItem from="1605953493734" duration="5029000" />
     </task>
     <task id="LOCAL-00001" summary="v1.4.1">
       <created>1605350396872</created>
@@ -188,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605957161247</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="vFINAL">
+      <created>1605958016832</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1605958016832</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,10 +235,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2635" y="72" width="1125" height="912" key="SettingsEditor/1920.0.1920.1080/0.27.1920.985@1920.0.1920.1080" timestamp="1605349974051" />
-    <state x="2338" y="272" width="800" height="542" key="Vcs.Push.Dialog.v2" timestamp="1605957162573">
+    <state x="2338" y="272" width="800" height="542" key="Vcs.Push.Dialog.v2" timestamp="1605958017970">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2338" y="272" width="800" height="542" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.27.1920.985@1920.0.1920.1080" timestamp="1605957162573" />
+    <state x="2338" y="272" width="800" height="542" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.27.1920.985@1920.0.1920.1080" timestamp="1605958017970" />
     <state x="2652" y="432" width="446" height="180" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605349550071">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
