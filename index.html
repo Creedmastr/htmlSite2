@@ -4,11 +4,14 @@
     <meta charset="utf-8">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css">
     <link rel="stylesheet" href="./css/main.css">
+    <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
     <script src="./js/main.js"></script>
     <link rel="stylesheet" href="/bulma-custom-styles.css">
     <title><img src="icon.png" alt=""><strong>NotFakeNews</strong></title>
   </head>
   <body>
+  <h1 id="app" class="has-text-centered" >
+  </h1>
   <nav class="navbar" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
       <a class="navbar-item" href="./index.html">
@@ -25,7 +28,22 @@
         <span aria-hidden="true"></span>
         <span aria-hidden="true"></span>
       </a>
-    </div>
+      <script class="has-text-centered">
+
+        var typewriter = new Typewriter(app,
+          {
+            loop: false
+          });
+        typewriter
+          .pauseFor(1000)
+          .deleteAll()
+          .typeString('<strong>Bienvenue sur NotFakeNews</strong>')
+          .pauseFor(600)
+          .pauseFor(10000)
+          .deleteAll()
+          .start();
+        </script>
+      </div>
 
   </nav>
       <p class="notification is-secondary">Bienvenue sur NotFakesNews !</p>
